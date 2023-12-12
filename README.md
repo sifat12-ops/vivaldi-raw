@@ -1,0 +1,1 @@
+This is one of my projects where I used raw css to replicate websites that I found comparatively easier. The purpose of uploading is for educational-purpose, not intended for hackers to use it to lure others into downloading malicious packages instead of original vivaldi executable file.
